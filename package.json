@@ -3,9 +3,6 @@
     "start": "retype start",
     "build": "retype build"
   },
-  "dependencies": {
-    "retypeapp-win-x64": "^3.5.0"
-  },
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
