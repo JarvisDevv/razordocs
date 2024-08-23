@@ -1,0 +1,43 @@
+input: ./
+output: .retype
+url:
+branding:
+  title: Razor
+  logo: /Public/img/razor-dark.png
+  logoDark: /Public/img/razor-dark.png
+  label: v1.0.1
+editor:
+  enabled: false
+links:
+- text: Home
+  link: /
+  icon: home
+- text: Support
+  link: https://discord.gg/YSv9VqQg6g
+  icon: rocket
+- text: Buy Source Code
+  link: https://builtbybit.com/resources/razor-an-all-in-one-discord-bot.29648/
+  icon: feed-heart
+- text: Invite Bot
+  link: https://discord.com/api/oauth2/authorize?client_id=1143862168253644860&permissions=303600576574&scope=bot%20applications.commands
+  icon: feed-plus
+cache:
+  strategy: query
+favicon: Public/img/razor.ico
+gravatar.default: robohash
+meta:
+  title: " | Razor - The Discord Supermacy"
+  description: "Razor is a Discord bot that is designed to make your server more fun and interactive."
+server:
+  host: 127.0.0.1:5005
+footer:
+  copyright: "© Copyright {{ year }}. [Razor, Inc.](https://discord.gg/YSv9VqQg6g) All rights reserved."
+  links:
+  - text: Buy Source Code
+    link: https://builtbybit.com/resources/razor-an-all-in-one-discord-bot.29648/
+  - text: Invite
+    link: https://discord.com/api/oauth2/authorize?client_id=1143862168253644860&permissions=303600576574&scope=bot%20applications.commands
+  - text: Contact
+    link: https://discord.gg/YSv9VqQg6g
+  - text: License
+    link: LICENSE
