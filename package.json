@@ -2,8 +2,5 @@
   "scripts": {
     "start": "retype start",
     "build": "retype build"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
